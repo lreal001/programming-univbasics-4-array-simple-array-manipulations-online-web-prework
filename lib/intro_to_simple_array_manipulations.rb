@@ -39,7 +39,7 @@ def using_insert
 end
 
 def using_uniq
-  
+  haircuts.uniq
 end
 
 def using_flatten
