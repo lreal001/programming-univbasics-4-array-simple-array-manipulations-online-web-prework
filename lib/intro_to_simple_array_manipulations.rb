@@ -43,5 +43,5 @@ def using_uniq
 end
 
 def using_flatten
-  
+  p instruments
 end
