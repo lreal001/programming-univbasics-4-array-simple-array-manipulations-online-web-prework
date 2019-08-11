@@ -22,6 +22,6 @@ end
 
 def shift_with_args
    @ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-   "Blue Bell Creameries"=
-   "Ben & Jerry's"=
+   "Blue Bell Creameries"=@ice_cream_brands.shift
+   "Ben & Jerry's"=@ice_cream_brands.shift
 end
