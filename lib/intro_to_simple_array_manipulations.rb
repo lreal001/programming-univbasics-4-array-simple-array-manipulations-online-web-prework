@@ -31,3 +31,15 @@ def using_concat
     more_favs = ["sports cars", "flatiron school"]
   @my_favorite_things << ("sports cars", "flatiron school")  
 end
+
+def using_insert
+
+end
+
+def using_uniq
+  
+end
+
+def using_flatten
+  
+end
