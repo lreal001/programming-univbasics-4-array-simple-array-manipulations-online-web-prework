@@ -43,5 +43,9 @@ def using_uniq
 end
 
 def using_flatten
-  p instruments
+  instruments.flatten
+end
+
+def using_delete(array, string)
+  
 end
