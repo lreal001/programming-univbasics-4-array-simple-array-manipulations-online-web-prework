@@ -36,7 +36,7 @@ def using_insert
   @list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
     @another_language = "Python" = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
     @another_language = "Python"
-    
+    @list_of_programming_languages.push()
 end
 
 def using_uniq
