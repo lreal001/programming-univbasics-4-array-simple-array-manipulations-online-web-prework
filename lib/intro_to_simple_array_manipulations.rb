@@ -25,3 +25,7 @@ def shift_with_args
    "Blue Bell Creameries"=@ice_cream_brands.shift
    "Ben & Jerry's"=@ice_cream_brands.shift
 end
+
+def using_concat
+
+end
