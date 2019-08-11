@@ -19,3 +19,7 @@ def using_shift
  @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
  "Lagos"= @my_favorite_cities.shift
 end 
+
+def shift_with_args
+  
+end
