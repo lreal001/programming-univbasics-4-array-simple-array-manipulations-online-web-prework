@@ -50,7 +50,7 @@ def using_delete(array, string)
   (instructors, "Steven").delete
 end
 
-def using_delete_at
+def using_delete_at(array, integer)
   
 end
 
